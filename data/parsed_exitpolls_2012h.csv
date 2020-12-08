@@ -1,0 +1,204 @@
+Vote by Gender,Men,45,53,2
+Vote by Gender,Women,55,44,1
+Vote by Age,18-29,60,38,2
+Vote by Age,30-44,51,46,3
+Vote by Age,45-64,47,51,2
+Vote by Age,65 and Older,44,55,1
+Vote by Age,18-24,61,37,2
+Vote by Age,25-29,60,38,2
+Vote by Age,30-39,54,43,3
+Vote by Age,40-49,47,52,1
+Vote by Age,50-64,47,51,2
+Vote by Age,65 and Older,44,55,1
+Vote by Race,White,39,59,2
+Vote by Race,African-American,91,8,1
+Vote by Race,Latino,68,30,2
+Vote by Race,Asian,73,25,2
+Vote by Race,Other,58,37,5
+Vote by Gender and Race,White Men,36,62,2
+Vote by Gender and Race,White Women,43,55,2
+Vote by Gender and Race,Black Men,86,13,1
+Vote by Gender and Race,Black Women,94,5,1
+Vote by Gender and Race,Latino Men,61,37,2
+Vote by Gender and Race,Latino Women,74,24,2
+Vote by Gender and Race,All Others,66,31,3
+Vote by Age and Race,White 18-29 Year Olds,46,52,2
+Vote by Age and Race,Latino 39-44 Year Olds,69,30,1
+Vote by Age and Race,Latino 45-64 Year Olds,65,33,2
+Vote by Age and Race,Latinos Over 65 Years Old,66,33,1
+Vote by Age and Race,All Others,66,31,3
+Vote by Age and Race,White 39-44 Year Olds,38,60,2
+Vote by Age and Race,White 45-64 Year Olds,38,60,2
+Vote by Age and Race,Whites Over 65 Years Old,39,60,1
+Vote by Age and Race,Black 18-29 Year Olds,90,9,1
+Vote by Age and Race,Black 39-44 Year Olds,91,7,2
+Vote by Age and Race,Black 45-64 Year Olds,91,8,1
+Vote by Age and Race,Blacks Over 65 Years Old,91,9,0
+Vote by Age and Race,Latino 18-29 Year Olds,71,27,2
+Vote by Ideology,Liberal,86,12,2
+Vote by Ideology,Moderate,57,41,2
+Vote by Ideology,Conservative,16,82,2
+Vote by Party ID,Democratic,94,6,0
+Vote by Party ID,Republican,5,94,1
+Vote by Party ID,Independent,44,51,5
+Vote by Education,No High School,62,35,3
+Vote by Education,High School Graduate,52,46,2
+Vote by Education,Some College,48,50,2
+Vote by Education,College Graduate,46,52,2
+Vote by Education,Postgraduate,55,43,2
+Are You a College Graduate?,Yes,50,48,2
+Are You a College Graduate?,No,51,48,1
+Did You Attend College?,Yes,49,49,2
+Did You Attend College?,No,54,45,1
+Vote by Income,Less Than $50K,59,39,2
+Vote by Income,$50-100K,46,52,2
+Vote by Income,$100K or More,42,56,2
+Vote by Income,Less Than $50K,59,39,2
+Vote by Income,$50K or More,45,54,1
+Vote by Income,Less Than $100K,54,45,1
+Vote by Income,$100K or More,42,56,2
+How Often Do You Attend Religious Services?,More Than Weekly,36,63,1
+How Often Do You Attend Religious Services?,Weekly,42,56,2
+How Often Do You Attend Religious Services?,Monthly,51,46,3
+How Often Do You Attend Religious Services?,Few Times a Year,55,43,2
+How Often Do You Attend Religious Services?,Never,60,38,2
+How Often Do You Attend Religious Services?,Weekly,40,58,2
+How Often Do You Attend Religious Services?,Occasionally,54,44,2
+How Often Do You Attend Religious Services?,Never,60,38,2
+Vote by Religion,Protestant,41,58,1
+Vote by Religion,Catholic,50,49,1
+Vote by Religion,Jewish,69,29,2
+Vote by Religion,Other,73,23,4
+Vote by Religion,None,71,27,2
+Vote by Religion and Race,White Protestant,29,70,1
+Vote by Religion and Race,White Catholic,39,59,2
+Vote by Religion and Race,White Jewish,70,28,2
+Vote by Religion and Race,Whites/Other Religion,61,33,6
+Vote by Religion and Race,Whites/No Religion,67,31,2
+Vote by Religion and Race,Non-white,78,20,2
+Vote by Religion and Church Attendance,Protestant/Attend Weekly,31,68,1
+Vote by Religion and Church Attendance,Protestant/Not Weekly ,42,57,1
+Vote by Religion and Church Attendance,Catholic/Attend Weekly,42,56,2
+Vote by Religion and Church Attendance,Catholic/Not Weekly,52,46,2
+Vote by Religion and Church Attendance,All Others,58,40,2
+Are You White Born-Again Christian?,Yes,20,78,2
+Are You White Born-Again Christian?,No,59,39,2
+Abortion Should Be...,Always Legal,74,25,1
+Abortion Should Be...,Mostly Legal,55,43,2
+Abortion Should Be...,Mostly Illegal,25,73,2
+Abortion Should Be...,Always Illegal,22,78,0
+Abortion Should Be...,Legal,64,34,2
+Abortion Should Be...,Illegal,24,75,1
+Opinion of Tea Party Movement,Support,10,88,2
+Opinion of Tea Party Movement,Neutral,42,57,1
+Opinion of Tea Party Movement,Oppose,86,12,2
+Most Important Issue Facing Country,Foreign Policy,54,36,10
+Most Important Issue Facing Country,Deficit,33,65,2
+Most Important Issue Facing Country,Economy,47,51,2
+Most Important Issue Facing Country,Health Care,73,25,2
+Biggest Economic Problem Facing People Like You,Housing Market,63,31,6
+Biggest Economic Problem Facing People Like You,Unemployment,55,43,2
+Biggest Economic Problem Facing People Like You,Taxes,32,66,2
+Biggest Economic Problem Facing People Like You,Rising Prices,50,48,2
+2010 Health Care Law Should Be...,Expanded,88,9,3
+2010 Health Care Law Should Be...,Kept As Is,78,21,1
+2010 Health Care Law Should Be...,Repealed In Part,30,69,1
+2010 Health Care Law Should Be...,Repealed Completely,7,92,1
+Should 2010 Health Care Law Be Repealed?,No,84,14,2
+Should 2010 Health Care Law Be Repealed?,Yes,18,80,2
+Income Tax Rates Should Be...,Increased For All,55,45,0
+Income Tax Rates Should Be...,Increased for $250K+,68,30,2
+Income Tax Rates Should Be...,Not Increased,24,74,2
+Most Illegal Immigrants Working in U.S. Should Be:,Offered Legal Status,60,38,2
+Most Illegal Immigrants Working in U.S. Should Be:,Deported,24,74,2
+Who Is More In Touch With People Like You?,Obama,87,11,2
+Who Is More In Touch With People Like You?,Romney,6,93,1
+Who Would Better Handle Economy?,Obama,92,6,2
+Who Would Better Handle Economy?,Romney,10,89,1
+Who Would Better Handle Medicare?,Obama,88,11,1
+Who Would Better Handle Medicare?,Romney,7,91,2
+Who Would Better Handle Deficit?,Obama,93,5,2
+Who Would Better Handle Deficit?,Romney,9,90,1
+Opinion of Government,Government Should Do More,79,18,3
+Opinion of Government,Government Doing Too Much,23,75,2
+National Economic Conditions,Excellent,0,0,0
+National Economic Conditions,Good,89,10,1
+National Economic Conditions,Not So Good,55,42,3
+National Economic Conditions,Poor,16,82,2
+National Economic Conditions,Excellent/Good,89,10,1
+National Economic Conditions,Not So Good/Poor,39,58,3
+U.S. Economic Conditions Are...,Getting Better,88,10,2
+U.S. Economic Conditions Are...,Getting Worse,11,86,3
+U.S. Economic Conditions Are...,Staying About the Same,41,58,1
+U.S. Economic Conditions Are...,Getting Better,88,10,2
+U.S. Economic Conditions Are...,Good and Staying the Same,69,31,0
+U.S. Economic Conditions Are...,Poor and Staying the Same,36,62,2
+U.S. Economic Conditions Are...,Getting Worse,11,86,3
+Your Family's Financial Situation,Better,79,18,3
+Your Family's Financial Situation,Worse,18,79,3
+Your Family's Financial Situation,Same,57,41,2
+Country is Going In...,Right Direction,87,11,2
+Country is Going In...,Wrong Track,17,81,2
+More to Blame for Current Economic Problems?,Barack Obama,7,92,1
+More to Blame for Current Economic Problems?,George W. Bush,85,12,3
+U.S. Economic System Generally...,Favors the Wealthy,70,28,2
+U.S. Economic System Generally...,Is Fair to Most Americans,23,76,1
+Should Taxes Be Raised To Help Cut Deficit?,Yes,74,23,3
+Should Taxes Be Raised To Help Cut Deficit?,No,38,60,2
+Opinion of Obama Administration,Enthusiastic,96,3,1
+Opinion of Obama Administration,Satisfied,83,15,2
+Opinion of Obama Administration,Dissatisfied,15,81,4
+Opinion of Obama Administration,Angry,3,95,2
+Opinion of Obama Administration,Enthusiastic/Satisfied,90,9,1
+Opinion of Obama Administration,Dissatisfied/Angry,10,87,3
+How Obama is Handling His Job As President,Strongly Approve,93,6,1
+How Obama is Handling His Job As President,Somewhat Approve,77,20,3
+How Obama is Handling His Job As President,Somewhat Disapprove,17,80,3
+How Obama is Handling His Job As President,Strongly Disapprove,3,95,2
+How Obama is Handling His Job As President,Approve,86,12,2
+How Obama is Handling His Job As President,Disapprove,7,91,2
+Opinion of Barack Obama,Favorable,88,11,1
+Opinion of Barack Obama,Unfavorable,8,90,2
+Opinion of Mitt Romney,Favorable,10,89,1
+Opinion of Mitt Romney,Unfavorable,87,11,2
+Do Obama Policies Generally Favor...,Rich,17,82,1
+Do Obama Policies Generally Favor...,Middle Class,81,17,2
+Do Obama Policies Generally Favor...,Poor,27,72,1
+Would Romney Policies Generally Favor...,Rich,84,14,2
+Would Romney Policies Generally Favor...,Middle Class,8,91,1
+Would Romney Policies Generally Favor...,Poor,0,0,0
+Trust Obama to Handle International Crisis?,Yes,83,15,2
+Trust Obama to Handle International Crisis?,No,6,92,2
+Trust Romney to Handle International Crisis?,Yes,16,83,1
+Trust Romney to Handle International Crisis?,No,87,12,1
+Who Do You Trust To Handle International Crisis?,Only Obama,92,6,2
+Who Do You Trust To Handle International Crisis?,Only Romney,4,95,1
+Who Do You Trust To Handle International Crisis?,Both,52,46,2
+Who Do You Trust To Handle International Crisis?,Neither,22,71,7
+Vote by Marital Status,Married,42,56,2
+Vote by Marital Status,Unmarried,62,36,2
+Vote by Gender and Marital Status,Married Men,38,60,2
+Vote by Gender and Marital Status,Married Women,46,53,1
+Vote by Gender and Marital Status,Unmarried Men,55,43,2
+Vote by Gender and Marital Status,Unmarried Women,68,31,1
+Any Children Under 18 Living in Your Home?,Yes,50,49,1
+Any Children Under 18 Living in Your Home?,No,50,48,2
+Vote by Marital Status and Children,Married With Children,43,55,2
+Vote by Marital Status and Children,All Others,52,46,2
+Vote by Gender and Children in Household,Fathers,44,54,2
+Vote by Gender and Children in Household,Mothers,54,44,2
+Vote by Gender and Children in Household,Men With No Children,45,53,2
+Vote by Gender and Children in Household,Women With No Children,54,44,2
+Is Anyone in Household a Union Member?,Yes,56,43,1
+Is Anyone in Household a Union Member?,No,49,49,2
+Do You Work Full-Time For Pay?,Yes,48,50,2
+Do You Work Full-Time For Pay?,No,53,46,1
+Should Same-Sex Marriages Be Legal in Your State?,Yes,70,28,2
+Should Same-Sex Marriages Be Legal in Your State?,No,27,72,1
+"Are You Gay, Lesbian or Bisexual?",Yes,76,20,4
+"Are You Gay, Lesbian or Bisexual?",No,49,49,2
+Vote for President,Obama,92,6,2
+Vote for President,Romney,6,92,2
+Vote by Size of Place,Urban,61,37,2
+Vote by Size of Place,Suburban,47,51,2
+Vote by Size of Place,Rural,40,57,3

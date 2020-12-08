@@ -1,0 +1,270 @@
+Vote by Gender,Men,41,57,2
+Vote by Gender,Women,51,47,2
+Vote by Age,18-29,54,43,3
+Vote by Age,30-44,50,48,2
+Vote by Age,45-64,45,53,2
+Vote by Age,65 and Older,41,57,2
+Vote by Age,18-24,54,44,2
+Vote by Age,25-29,54,43,3
+Vote by Age,30-39,51,47,2
+Vote by Age,40-49,44,54,2
+Vote by Age,50-64,46,52,2
+Vote by Age,65 or Older,41,57,2
+Vote by Race,White,38,60,2
+Vote by Race,African-American,89,10,1
+Vote by Race,Latino,62,36,2
+Vote by Race,Asian,49,50,1
+Vote by Race,Other,49,47,4
+Vote by Race,White,38,60,2
+Vote by Race,Black,89,10,1
+Vote by Race,Latino,62,36,2
+Vote by Race,Asian,49,50,1
+Vote by Race,American Indian,43,52,5
+Vote by Race,Other,52,44,4
+Vote by Gender and Race,White Men,33,64,3
+Vote by Gender and Race,White Women,42,56,2
+Vote by Gender and Race,Black Men,86,13,1
+Vote by Gender and Race,Black Women,91,8,1
+Vote by Gender and Race,Latino Men,57,41,2
+Vote by Gender and Race,Latino Women,66,32,2
+Vote by Gender and Race,All Other Races,49,48,3
+Vote by Age and Race,White 18-to-29 Year Olds,43,54,3
+Vote by Age and Race,Latino 30-to-44 Year Olds,56,42,2
+Vote by Age and Race,Latino 45-to-64 Year Olds,62,37,1
+Vote by Age and Race,Latinos Over 65 Years Old,64,34,2
+Vote by Age and Race,All Others,49,49,2
+Vote by Age and Race,White 30-to-44 Year Olds,40,58,2
+Vote by Age and Race,White 45-to-64 Year Olds,36,62,2
+Vote by Age and Race,Whites Over 65 Years Old,36,62,2
+Vote by Age and Race,Black 18-to-29 Year Olds,88,11,1
+Vote by Age and Race,Black 30-to-44 Year Olds,86,12,2
+Vote by Age and Race,Black 45-to-64 Year Olds,90,9,1
+Vote by Age and Race,Blacks Over 65 Years Old,92,7,1
+Vote by Age and Race,Latino 18-to-29 Year Olds,68,28,4
+Vote by Ideology,Liberal,87,11,2
+Vote by Ideology,Moderate,53,45,2
+Vote by Ideology,Conservative,13,85,2
+Vote by Party ID,Democrats,92,7,1
+Vote by Party ID,Republicans,5,94,1
+Vote by Party ID,Independents,42,54,4
+Vote by Gender and Party,Democratic Men,92,7,1
+Vote by Gender and Party,Democratic Women,92,7,1
+Vote by Gender and Party,Republican Men,5,94,1
+Vote by Gender and Party,Republican Women,5,94,1
+Vote by Gender and Party,Independent Men,38,57,5
+Vote by Gender and Party,Independent Women,46,50,4
+Vote by Education,No High School,54,44,2
+Vote by Education,High School Graduate,45,53,2
+Vote by Education,Some College,44,54,2
+Vote by Education,College Graduate,44,54,2
+Vote by Education,Postgraduate,53,45,2
+Are You a College Graduate?,Yes,47,50,3
+Are You a College Graduate?,No,45,53,2
+Did You Attend College?,Yes,46,52,2
+Did You Attend College?,No,46,52,2
+Vote by Race and Education,White College Graduates,41,57,2
+Vote by Race and Education,White/No College Degree,34,64,2
+Vote by Race and Education,Non-White College Grads,70,28,2
+Vote by Race and Education,Non-White/No Coll. Degree,74,25,1
+Vote by Income,Under $30K,59,39,2
+Vote by Income,$30-50K,51,47,2
+Vote by Income,$50-100K,44,55,1
+Vote by Income,$100-200K,41,57,2
+Vote by Income,Over $200K,42,57,1
+Vote by Income,Less Than $50K,54,43,3
+Vote by Income,$50-100K,44,55,1
+Vote by Income,$100K or More,41,57,2
+Vote by Income,Less Than $50K,54,43,3
+Vote by Income,$50K or More,43,56,1
+Vote by Income,Less Than $100K,49,49,2
+Vote by Income,$100K or More,41,57,2
+Vote by Religion,Protestant,37,61,2
+Vote by Religion,Catholic,45,54,1
+Vote by Religion,Jewish,66,33,1
+Vote by Religion,Other,67,31,2
+Vote by Religion,None,69,29,2
+Vote by Religion and Race,White Protestant,26,72,2
+Vote by Religion and Race,White Catholic,38,60,2
+Vote by Religion and Race,White Jewish,65,34,1
+Vote by Religion and Race,White/Other Religions,61,36,3
+Vote by Religion and Race,White/No Religion,66,32,2
+Vote by Religion and Race,Non-Whites,71,27,2
+How Often Do You Attend Religious Services?,More Than Weekly,40,59,1
+How Often Do You Attend Religious Services?,Weekly,40,58,2
+How Often Do You Attend Religious Services?,Monthly,43,55,2
+How Often Do You Attend Religious Services?,Few Times a Year,48,51,1
+How Often Do You Attend Religious Services?,Never,62,36,2
+How Often Do You Attend Religious Services?,Weekly,40,58,2
+How Often Do You Attend Religious Services?,Occasionally,46,52,2
+How Often Do You Attend Religious Services?,Never,62,36,2
+Vote by Church Attendance and Religion,Protestant/Attend Weekly,31,67,2
+Vote by Church Attendance and Religion,Protestant/Attend Less,37,61,2
+Vote by Church Attendance and Religion,Catholic/Attend Weekly,43,55,2
+Vote by Church Attendance and Religion,Catholic/Attend Less,50,49,1
+Vote by Church Attendance and Religion,All Other Religions,55,43,2
+Are You White Evangelical or Born-Again Christian?,Yes,20,78,2
+Are You White Evangelical or Born-Again Christian?,No,55,43,2
+Country is Going In...,Right Direction,82,17,1
+Country is Going In...,Wrong Track,28,69,3
+Your View of Government,Government Should Do More,78,21,1
+Your View of Government,Government Doing Too Much,21,77,2
+Are You Worried About Economic Conditions?,Very Worried,30,68,2
+Are You Worried About Economic Conditions?,Somewhat Worried,48,50,2
+Are You Worried About Economic Conditions?,Not Too Worried,72,27,1
+Are You Worried About Economic Conditions?,Not at All Worried,79,19,2
+Are You Worried About Economic Conditions?,Yes,40,58,2
+Are You Worried About Economic Conditions?,No,73,25,2
+National Economic Conditions,Excellent,0,0,0
+National Economic Conditions,Good,74,24,2
+National Economic Conditions,Not So Good,41,58,1
+National Economic Conditions,Poor,18,79,3
+National Economic Conditions,Excellent/Good,74,24,2
+National Economic Conditions,Not So Good/Poor,33,64,3
+U.S. Economy Is...,Getting Better,75,23,2
+U.S. Economy Is...,Getting Worse,20,77,3
+U.S. Economy Is...,Staying About the Same,41,57,2
+Economic Conditions Are...,Getting Better,75,23,2
+Economic Conditions Are...,Good and Staying the Same,70,28,2
+Economic Conditions Are...,Poor and Staying the Same,34,65,1
+Economic Conditions Are...,Getting Worse,20,77,3
+Your Family's Financial Situation,Better,57,41,2
+Your Family's Financial Situation,Worse,30,67,3
+Your Family's Financial Situation,Same,49,49,2
+U.S. Economic System Generally...,Favors the Wealthy,64,35,1
+U.S. Economic System Generally...,Is Fair to Most Americans,17,81,2
+Life For Next Generation of Americans Will Be...,Better Than Today,68,31,1
+Life For Next Generation of Americans Will Be...,Worse Than Today,29,69,2
+Life For Next Generation of Americans Will Be...,Same As Today,60,38,2
+Trust Government in Washington?,Just About Always,72,28,0
+Trust Government in Washington?,Most of the Time,71,28,1
+Trust Government in Washington?,Only Some of the Time,44,54,2
+Trust Government in Washington?,Never,27,70,3
+Trust Government in Washington?,Always/Most of the Time,71,28,1
+Trust Government in Washington?,Some of the Time/Never,40,58,2
+Your House Vote Meant To Express...,Support for Obama,93,6,1
+Your House Vote Meant To Express...,Opposition to Obama,5,92,3
+Your House Vote Meant To Express...,Obama Not a Factor,55,43,2
+How Obama is Handling His Job,Strongly Approve,91,8,1
+How Obama is Handling His Job,Somewhat Approve,84,15,1
+How Obama is Handling His Job,Somewhat Disapprove,37,59,4
+How Obama is Handling His Job,Strongly Disapprove,8,90,2
+How Obama is Handling His Job,Approve,87,12,1
+How Obama is Handling His Job,Disapprove,15,83,2
+How Congress is Handling Its Job,Strongly Approve,56,43,1
+How Congress is Handling Its Job,Somewhat Approve,53,46,1
+How Congress is Handling Its Job,Somewhat Disapprove,42,56,2
+How Congress is Handling Its Job,Strongly Disapprove,48,50,2
+How Congress is Handling Its Job,Approve,53,46,1
+How Congress is Handling Its Job,Disapprove,45,52,3
+Opinion of Obama Administration,Enthusiastic,93,5,2
+Opinion of Obama Administration,Satisfied,84,15,1
+Opinion of Obama Administration,Dissatisfied,29,68,3
+Opinion of Obama Administration,Angry,5,93,2
+Opinion of Obama Administration,Satisfied/Enthusiastic,86,12,2
+Opinion of Obama Administration,Angry/Dissatisfied,18,79,3
+Opinion of GOP Leaders in Congress,Enthusiastic,12,86,2
+Opinion of GOP Leaders in Congress,Satisfied,17,81,2
+Opinion of GOP Leaders in Congress,Dissatisfied,53,45,2
+Opinion of GOP Leaders in Congress,Angry,84,13,3
+Opinion of GOP Leaders in Congress,Satisfied/Enthusiastic,16,82,2
+Opinion of GOP Leaders in Congress,Angry/Dissatisfied,65,33,2
+Opinion of Democratic Party,Favorable,90,8,2
+Opinion of Democratic Party,Unfavorable,12,86,2
+Opinion of Republican Party,Favorable,10,88,2
+Opinion of Republican Party,Unfavorable,74,24,2
+Opinion of Tea Party,Strongly Support,9,89,2
+Opinion of Tea Party,Somewhat Support,16,81,3
+Opinion of Tea Party,Neutral,41,57,2
+Opinion of Tea Party,Somewhat Oppose,58,40,2
+Opinion of Tea Party,Strongly Oppose,87,11,2
+Opinion of Tea Party,Support,13,85,2
+Opinion of Tea Party,Neutral,41,57,2
+Opinion of Tea Party,Oppose,79,19,2
+Most Important Issue Facing Country Today,Foreign Policy,42,56,2
+Most Important Issue Facing Country Today,Health Care,59,39,2
+Most Important Issue Facing Country Today,Economy,48,50,2
+Most Important Issue Facing Country Today,Illegal Immigration,24,74,2
+2010 Federal Health Care Law...,Did Not Go Not Far Enough,78,19,3
+2010 Federal Health Care Law...,Was About Right,80,19,1
+2010 Federal Health Care Law...,Went Too Far,14,84,2
+U.S. Military Action Against ISIS Forces,Approve,49,49,2
+U.S. Military Action Against ISIS Forces,Disapprove,41,56,3
+Should Same-Sex Marriages Be Legal in Your State?,Yes,67,31,2
+Should Same-Sex Marriages Be Legal in Your State?,No,27,72,1
+Legalize Marijuana in Your State?,Favor,60,38,2
+Legalize Marijuana in Your State?,Oppose,31,67,2
+Most Illegal Immigrants Working in U.S. Should Be:,Offered Legal Status,64,35,1
+Most Illegal Immigrants Working in U.S. Should Be:,Deported,23,75,2
+Abortion Should Be...,Always Legal,74,24,2
+Abortion Should Be...,Mostly Legal,57,41,2
+Abortion Should Be...,Mostly Illegal,23,75,2
+Abortion Should Be...,Always Illegal,28,71,1
+Abortion Should Be...,Legal,65,33,2
+Abortion Should Be...,Illegal,25,73,2
+Worried About Major Terrorist Attack in U.S.?,Very Worried,32,66,2
+Worried About Major Terrorist Attack in U.S.?,Somewhat Worried,44,55,1
+Worried About Major Terrorist Attack in U.S.?,Not Too Worried,67,31,2
+Worried About Major Terrorist Attack in U.S.?,Not at All Worried,74,23,3
+Worried About Major Terrorist Attack in U.S.?,Yes,39,59,2
+Worried About Major Terrorist Attack in U.S.?,No,68,29,3
+Race Relations in U.S. Have...,Gotten Better,54,44,2
+Race Relations in U.S. Have...,Stayed the Same,53,46,1
+Race Relations in U.S. Have...,Gotten Worse,36,62,2
+Federal Government Response to Ebola,Approve,68,30,2
+Federal Government Response to Ebola,Disapprove,26,72,2
+Is Global Warming a Serious Problem?,Yes,70,29,1
+Is Global Warming a Serious Problem?,No,14,84,2
+Vote by Marital Status,Married,40,58,2
+Vote by Marital Status,Unmarried,55,42,3
+Vote by Gender and Marital Status,Married Men,37,61,2
+Vote by Gender and Marital Status,Married Women,44,54,2
+Vote by Gender and Marital Status,Unmarried Men,49,48,3
+Vote by Gender and Marital Status,Unmarried Women,60,38,2
+Any Children Under 18 Living in Your Home?,Yes,46,52,2
+Any Children Under 18 Living in Your Home?,No,47,51,2
+Do You Have Children Under 18?,Fathers,41,57,2
+Do You Have Children Under 18?,Mothers,50,48,2
+Do You Have Children Under 18?,Men With No Children,43,55,2
+Do You Have Children Under 18?,Women With No Children,51,47,2
+Vote by Marital Status and Children,Married Voters With Kids,40,58,2
+Vote by Marital Status and Children,All Other Voters,49,49,2
+Ever Served in the U.S. Military?,Yes,39,59,2
+Ever Served in the U.S. Military?,No,49,49,2
+Is Anyone in Household a Union Member?,Yes,60,38,2
+Is Anyone in Household a Union Member?,No,44,54,2
+Do You Work Full-Time For Pay?,Yes,44,54,2
+Do You Work Full-Time For Pay?,No,48,50,2
+Would Hillary Clinton Make a Good President?,Yes,83,15,2
+Would Hillary Clinton Make a Good President?,No,14,83,3
+Would Jeb Bush Make a Good President?,Yes,19,79,2
+Would Jeb Bush Make a Good President?,No,61,37,2
+Would Chris Christie Make a Good President?,Yes,29,69,2
+Would Chris Christie Make a Good President?,No,53,45,2
+Would Rand Paul Make a Good President?,Yes,20,78,2
+Would Rand Paul Make a Good President?,No,59,39,2
+Would Rick Perry Make a Good President?,Yes,15,84,1
+Would Rick Perry Make a Good President?,No,59,38,3
+More Likely to Vote For in 2016 Pres. Race:,Hillary Clinton,91,8,1
+More Likely to Vote For in 2016 Pres. Race:,The Republican Candidate,5,94,1
+More Likely to Vote For in 2016 Pres. Race:,It Depends,54,42,4
+Followed This Year's Political Campaigns...,Extremely Closely,38,60,2
+Followed This Year's Political Campaigns...,Very Closely,44,54,2
+Followed This Year's Political Campaigns...,Somewhat Closely,48,50,2
+Followed This Year's Political Campaigns...,Not Too Closely,54,43,3
+Followed This Year's Political Campaigns...,Closely,42,56,2
+Followed This Year's Political Campaigns...,Not Closely,49,48,3
+"Are You Gay, Lesbian or Bisexual?",Yes,75,24,1
+"Are You Gay, Lesbian or Bisexual?",No,45,53,2
+How Closely Have You Followed News About Ebola?,Extremely Closely,45,53,2
+How Closely Have You Followed News About Ebola?,Very Closely,46,53,1
+How Closely Have You Followed News About Ebola?,Somewhat Closely,45,52,3
+How Closely Have You Followed News About Ebola?,Not Too Closely,51,46,3
+How Closely Have You Followed News About Ebola?,Extremely/Very Closely,45,53,2
+How Closely Have You Followed News About Ebola?,Somewhat/Not Too Closely,46,51,3
+Vote by Size of Place,Urban,56,42,2
+Vote by Size of Place,Suburban,43,55,2
+Vote by Size of Place,Rural,38,59,3
+Vote By Region,East,55,43,2
+Vote By Region,Midwest,45,53,2
+Vote By Region,South,38,59,3
+Vote By Region,West,50,48,2

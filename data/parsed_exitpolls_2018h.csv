@@ -1,0 +1,241 @@
+Gender,Male,47,51,2
+Gender,Female,59,40,1
+Age,18-29,67,32,1
+Age,30-44,58,39,3
+Age,45-64,49,50,1
+Age,65 and older,48,50,2
+Age,18-24,68,31,1
+Age,25-29,66,33,1
+Age,30-39,59,37,4
+Age,40-49,52,46,2
+Age,50-64,49,50,1
+Age,65 and older,48,50,2
+Age,18-44,61,36,3
+Age,45 and older,49,50,1
+Race,White,44,54,2
+Race,Black,90,9,1
+Race,Latino,69,29,2
+Race,Asian,77,23,0
+Race,Other race,54,42,4
+Race,White,44,54,2
+Race,Non-white,76,22,2
+Race by gender,White men,39,60,1
+Race by gender,White women,49,49,2
+Race by gender,Black men,88,12,0
+Race by gender,Black women,92,7,1
+Race by gender,Latino men,63,34,3
+Race by gender,Latino women,73,26,1
+Race by gender,Others,66,32,2
+Age by race,Whites 18-29,56,43,1
+Age by race,Latinos 30-44,74,25,1
+Age by race,Latinos 45-64,63,35,2
+Age by race,Latinos age 65 or older,71,25,4
+Age by race,All others,65,33,2
+Age by race,Whites 30-44,48,48,4
+Age by race,Whites 45-64,40,59,1
+Age by race,Whites 65 or older,43,56,1
+Age by race,Blacks 18-29,92,7,1
+Age by race,Blacks 30-44,92,7,1
+Age by race,Blacks 45-64,88,11,1
+Age by race,Blacks age 65 or older,88,11,1
+Age by race,Latinos 18-29,81,17,2
+Education,HS or less,48,51,1
+Education,Some college,52,47,1
+Education,Associate's degree,47,50,3
+Education,Bachelor's degree,55,43,2
+Education,Advanced degree,65,34,1
+Are you a college graduate?,Yes,59,39,2
+Are you a college graduate?,No,49,49,2
+Education and race,White college graduates,53,45,2
+Education and race,Whites no degree,37,61,2
+Education and race,Non-whites college grads,77,22,1
+Education and race,Non-whites no degree,76,22,2
+Whites by education and gender,White college women,59,39,2
+Whites by education and gender,White non-college women,42,56,2
+Whites by education and gender,White college men,47,51,2
+Whites by education and gender,White non-college men,32,66,2
+Whites by education and gender,All non-whites,76,22,2
+Income,"Under $30,000",63,34,3
+Income,"$30,000-$49,999",57,41,2
+Income,"$50,000-$99,999",52,47,1
+Income,"$100,000-$199,999",47,51,2
+Income,"$200,000 or more",47,52,1
+Income,Under $100K,56,42,2
+Income,$100K or more,47,52,1
+Income,Under $50K,59,38,3
+Income,$50K or more,49,50,1
+Income,Under $50K,59,38,3
+Income,$50K-$100K,52,47,1
+Income,$100K or more,47,52,1
+Party ID,Democrats,95,4,1
+Party ID,Republicans,6,94,0
+Party ID,Independents,54,42,4
+Party by gender,Democratic men,94,5,1
+Party by gender,Democratic women,96,3,1
+Party by gender,Republican men,6,94,0
+Party by gender,Republican women,6,93,1
+Party by gender,Independent men,51,44,5
+Party by gender,Independent women,56,39,5
+Ideology,Liberal,91,8,1
+Ideology,Moderate,62,36,2
+Ideology,Conservative,16,83,1
+Marital status,Married,51,47,2
+Marital status,Unmarried,61,37,2
+Gender by marital status,Married men,48,51,1
+Gender by marital status,Married women,54,44,2
+Gender by marital status,Unmarried men,54,44,2
+Gender by marital status,Unmarried women,66,31,3
+Are you a parent?,Yes,54,44,2
+Are you a parent?,No,55,43,2
+Children under 18,Only boys,59,39,2
+Children under 18,Only girls,54,45,1
+Children under 18,Both boys and girls,50,48,2
+Children under 18,No children under 18,55,43,2
+Parents,Fathers,48,50,2
+Parents,Mothers,60,39,1
+Parents,Men without children,51,47,2
+Parents,Women without children,59,39,2
+Does anyone in your household own a gun?,Yes,36,61,3
+Does anyone in your household own a gun?,No,72,26,2
+Served in the U.S. military,Veterans,41,58,1
+Served in the U.S. military,Non-veterans,56,43,1
+Religion,Protestant,38,61,1
+Religion,Catholic,50,49,1
+Religion,Other Christian,47,52,1
+Religion,Jewish,79,17,4
+Religion,Muslim,0,0,0
+Religion,Other religion,70,28,2
+Religion,No religious belief,70,28,2
+"Religion, combined Protestant and other Christian",Protestant/Oth. Christian,42,56,2
+"Religion, combined Protestant and other Christian",Catholic,50,49,1
+"Religion, combined Protestant and other Christian",Jewish,79,17,4
+"Religion, combined Protestant and other Christian",Other,73,25,2
+"Religion, combined Protestant and other Christian",No religion,70,28,2
+How often do you attend religious services?,Weekly or more,40,58,2
+How often do you attend religious services?,A few times a month,52,46,2
+How often do you attend religious services?,A few times a year,61,37,2
+How often do you attend religious services?,Never,68,30,2
+How often do you attend religious services?,Monthly or more,44,55,1
+How often do you attend religious services?,Less than that,65,34,1
+White born-again or evangelical Christian?,Yes,22,75,3
+White born-again or evangelical Christian?,No,66,32,2
+First-time midterm election voter?,Yes,62,36,2
+First-time midterm election voter?,No,53,46,1
+2016 presidential vote,Clinton,94,5,1
+2016 presidential vote,Trump,8,91,1
+2016 presidential vote,Other,54,41,5
+2016 presidential vote,Did not vote,70,28,2
+Views of Donald Trump as president,Strongly approve,5,94,1
+Views of Donald Trump as president,Somewhat approve,24,74,2
+Views of Donald Trump as president,Somewhat disapprove,63,34,3
+Views of Donald Trump as president,Strongly disapprove,95,4,1
+Views of Donald Trump as president,Approve,11,88,1
+Views of Donald Trump as president,Disapprove,90,8,2
+Was your vote for U.S. House today to:,Support Trump,4,95,1
+Was your vote for U.S. House today to:,Oppose Trump,94,4,2
+Was your vote for U.S. House today to:,Trump not a factor,44,52,4
+Opinion of the Democratic Party,Favorable,92,6,2
+Opinion of the Democratic Party,Unfavorable,13,86,1
+Opinion of the Republican Party,Favorable,12,87,1
+Opinion of the Republican Party,Unfavorable,87,11,2
+Favorable opinion of:,Both parties,66,30,4
+Favorable opinion of:,Only Democrats,96,2,2
+Favorable opinion of:,Only Republicans,3,96,1
+Favorable opinion of:,Neither party,48,47,5
+Opinion of Nancy Pelosi,Favorable,89,10,1
+Opinion of Nancy Pelosi,Unfavorable,24,75,1
+Which party should control the U.S. House?,The Democrats,96,3,1
+Which party should control the U.S. House?,The Republicans,5,94,1
+Should Congress impeach Donald Trump?,Yes,92,7,1
+Should Congress impeach Donald Trump?,No,19,78,3
+Direction of the country,Right direction,13,86,1
+Direction of the country,Wrong track,85,13,2
+"Politically, do you think Americans are:",Becoming more united,28,70,2
+"Politically, do you think Americans are:",Becoming more divided,60,39,1
+"Politically, do you think Americans are:",Staying about the same,32,66,2
+Time of decision in U.S. House election,Last few days,53,41,6
+Time of decision in U.S. House election,Last week,49,48,3
+Time of decision in U.S. House election,Last month,51,46,3
+Time of decision in U.S. House election,Earlier than that,52,47,1
+Time of decision in the U.S. House election,In last month,51,46,3
+Time of decision in the U.S. House election,Before that,52,47,1
+Time of decision in the U.S. House election,In last week,51,45,4
+Time of decision in the U.S. House election,Before that,52,47,1
+Most important issue facing the country,Health care,75,23,2
+Most important issue facing the country,Immigration,23,75,2
+Most important issue facing the country,Economy,34,63,3
+Most important issue facing the country,Gun policy,70,29,1
+Condition of national economy,Excellent,12,87,1
+Condition of national economy,Good,47,51,2
+Condition of national economy,Not so good,83,15,2
+Condition of national economy,Poor,85,8,7
+Condition of national economy,Good,39,60,1
+Condition of national economy,Poor,83,14,3
+Family's financial situation vs. two years ago,Better today,21,77,2
+Family's financial situation vs. two years ago,Worse today,80,18,2
+Family's financial situation vs. two years ago,About the same,69,29,2
+Effect of Trump's trade policies on local economy,Helped,9,91,0
+Effect of Trump's trade policies on local economy,Hurt,89,8,3
+Effect of Trump's trade policies on local economy,Had no impact,53,45,2
+Effect of new tax laws on your personal finances,Helped,15,84,1
+Effect of new tax laws on your personal finances,Hurt,83,15,2
+Effect of new tax laws on your personal finances,Had no impact,62,36,2
+Health care in the U.S. needs:,Major changes,55,43,2
+Health care in the U.S. needs:,Minor changes,41,57,2
+Health care in the U.S. needs:,No changes,40,60,0
+Who would better protect pre-existing conditions?,Democrats,89,9,2
+Who would better protect pre-existing conditions?,Republicans,4,94,2
+Are Donald Trump's immigration policies:,Too tough,90,8,2
+Are Donald Trump's immigration policies:,Not tough enough,14,86,0
+Are Donald Trump's immigration policies:,About right,13,85,2
+Views on stricter gun control measures,Support,76,22,2
+Views on stricter gun control measures,Oppose,22,76,2
+View of the Russia investigation:,Mostly justified,85,14,1
+View of the Russia investigation:,Politically motivated,25,73,2
+View of Mueller's handling of Russia investigation,Approve,79,19,2
+View of Mueller's handling of Russia investigation,Disapprove,28,71,1
+Does Trump's foreign policy make the U.S.:,Safer,8,91,1
+Does Trump's foreign policy make the U.S.:,Less safe,90,9,1
+Does Trump's foreign policy make the U.S.:,No difference,60,38,2
+View of Kavanaugh's Supreme Court appointment,Support,12,87,1
+View of Kavanaugh's Supreme Court appointment,Oppose,90,9,1
+How should the Supreme Court handle Roe vs. Wade?,Keep as is,69,30,1
+How should the Supreme Court handle Roe vs. Wade?,Overturn it,21,79,0
+In the U.S. today:,Whites are favored,87,11,2
+In the U.S. today:,Minorities are favored,12,85,3
+In the U.S. today:,No group is favored,29,69,2
+Importance of electing racial/ethnic minorities,Very important,79,20,1
+Importance of electing racial/ethnic minorities,Somewhat important,44,55,1
+Importance of electing racial/ethnic minorities,Not too important,20,79,1
+Importance of electing racial/ethnic minorities,Not at all important,12,84,4
+Importance of electing racial/ethnic minorities,Important,65,34,1
+Importance of electing racial/ethnic minorities,Not important,16,82,2
+Importance of electing more women to public office,Very important,82,17,1
+Importance of electing more women to public office,Somewhat important,45,52,3
+Importance of electing more women to public office,Not too important,17,80,3
+Importance of electing more women to public office,Not at all important,8,90,2
+Importance of electing more women to public office,Important,66,32,2
+Importance of electing more women to public office,Not important,13,84,3
+Sexual harassment in this country today is:,A very serious problem,72,26,2
+Sexual harassment in this country today is:,Somewhat serious problem,48,50,2
+Sexual harassment in this country today is:,Not too serious a problem,20,79,1
+Sexual harassment in this country today is:,Not a serious problem,0,0,0
+Sexual harassment in this country today is:,A serious problem,61,37,2
+Sexual harassment in this country today is:,Not a serious problem,20,79,1
+Has gov't done enough to protect this election?,Yes,27,71,2
+Has gov't done enough to protect this election?,No,75,24,1
+Which concerns you more? Some people will:,Cast illegitimate votes,21,78,1
+Which concerns you more? Some people will:,Be prevented from voting,80,18,2
+"Are you gay, lesbian, bisexual or transgender?",Yes,82,17,1
+"Are you gay, lesbian, bisexual or transgender?",No,51,47,2
+"In your vote today, was recent extremist violence:",The most important factor,62,37,1
+"In your vote today, was recent extremist violence:",An important factor,51,48,1
+"In your vote today, was recent extremist violence:",A minor factor,38,60,2
+"In your vote today, was recent extremist violence:",Not a factor at all,36,61,3
+Was recent extremist violence important to vote?,Yes,54,44,2
+Was recent extremist violence important to vote?,No,37,61,2
+Was recent extremist violence a factor in vote?,Yes,53,46,1
+Was recent extremist violence a factor in vote?,No,36,61,3
+Area type,Urban area,65,32,3
+Area type,Suburban area,49,49,2
+Area type,Rural area,42,56,2

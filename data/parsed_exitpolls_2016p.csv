@@ -1,0 +1,281 @@
+Gender,Male,41,52,7
+Gender,Female,54,41,5
+Age,18-29,55,36,9
+Age,30-44,51,41,8
+Age,45-64,44,52,4
+Age,65 and older,45,52,3
+Age,18-24,56,34,10
+Age,25-29,54,38,8
+Age,30-39,51,39,10
+Age,40-49,46,49,5
+Age,50-64,44,52,4
+Age,65 and older,45,52,3
+Age,18-44,53,39,8
+Age,45 and older,44,52,4
+Race,White,37,57,6
+Race,Black,89,8,3
+Race,Latino,66,28,6
+Race,Asian,65,27,8
+Race,Other race,56,36,8
+Race,White,37,57,6
+Race,Non-white,74,21,5
+Race and gender,White men,31,62,7
+Race and gender,White women,43,52,5
+Race and gender,Black men,82,13,5
+Race and gender,Black women,94,4,2
+Race and gender,Latino men,63,32,5
+Race and gender,Latino women,69,25,6
+Race and gender,Others,61,31,8
+Age by race,Whites 18-29,43,47,10
+Age by race,Latinos 30-44,65,28,7
+Age by race,Latinos 45-64,64,32,4
+Age by race,Latinos 65 and older,73,25,2
+Age by race,All others,61,31,8
+Age by race,Whites 30-44,37,54,9
+Age by race,Whites 45-64,34,62,4
+Age by race,Whites 65 and older,39,58,3
+Age by race,Blacks 18-29,85,9,6
+Age by race,Blacks 30-44,89,7,4
+Age by race,Blacks 45-64,90,9,1
+Age by race,Blacks 65 and older,91,9,0
+Age by race,Latinos 18-29,68,26,6
+Education,High school or less,46,51,3
+Education,Some college,43,51,6
+Education,College graduate,49,44,7
+Education,Postgraduate,58,37,5
+Are you a college graduate?,Yes,52,42,6
+Are you a college graduate?,No,44,51,5
+Education and race,White college graduates,45,48,7
+Education and race,Whites no degree,29,66,5
+Education and race,Non-whites college grads,72,22,6
+Education and race,Non-whites no degree,76,20,4
+Education among whites by sex,White college-grad women,51,44,5
+Education among whites by sex,White non-college women,34,61,5
+Education among whites by sex,White college-grad men,39,53,8
+Education among whites by sex,White non-college men,23,71,6
+Education among whites by sex,Non-whites,74,21,5
+Income,"Under $30,000",53,40,7
+Income,"$30K-$49,999",52,41,7
+Income,"$50K-$99,999",46,49,5
+Income,"$100K-$199,999",47,48,5
+Income,"$200K-$249,999",49,47,4
+Income,"$250,000 or more",46,46,8
+Income,Under $50K,53,41,6
+Income,$50K or more,47,48,5
+Income,Under $100K,49,45,6
+Income,$100K or more,47,47,6
+Income,Under $50K,53,41,6
+Income,$50K-$100K,46,49,5
+Income,$100K or more,47,47,6
+Party ID,Democrats,89,8,3
+Party ID,Republicans,8,88,4
+Party ID,Independents,42,46,12
+Party by gender,Democratic men,87,9,4
+Party by gender,Democratic women,91,7,2
+Party by gender,Republican men,7,89,4
+Party by gender,Republican women,9,88,3
+Party by gender,Independent men,38,50,12
+Party by gender,Independent women,47,42,11
+Ideology,Liberal,84,10,6
+Ideology,Moderate,52,40,8
+Ideology,Conservative,16,81,3
+Marital status,Married,44,52,4
+Marital status,Unmarried,55,37,8
+Marital status by gender,Married men,38,57,5
+Marital status by gender,Married women,49,47,4
+Marital status by gender,Unmarried men,46,44,10
+Marital status by gender,Unmarried women,63,32,5
+White born-again or evangelical Christian?,Yes,16,80,4
+White born-again or evangelical Christian?,No,60,34,6
+Religion,Protestant,36,59,5
+Religion,Catholic,46,50,4
+Religion,Mormon,28,56,16
+Religion,Other Christian,43,54,3
+Religion,Jewish,71,23,6
+Religion,Muslim,0,0,0
+Religion,Other religion,58,32,10
+Religion,No religion,67,25,8
+Religion,Protestant,39,56,5
+Religion,Catholic,46,50,4
+Religion,Jewish,71,23,6
+Religion,Another religion,62,29,9
+Religion,No religion,67,25,8
+How often do you attend religious services?,Weekly or more,41,55,4
+How often do you attend religious services?,Monthly,47,49,4
+How often do you attend religious services?,Few times a year,48,46,6
+How often do you attend religious services?,Never,62,30,8
+How often do you attend religious services?,Monthly or more,43,53,4
+How often do you attend religious services?,Less often than that,54,39,7
+Union household?,Yes,51,42,7
+Union household?,No,46,48,6
+Served in the U.S. military,Veterans,34,60,6
+Served in the U.S. military,Non-veterans,50,44,6
+Were you born a U.S. citizen?,Yes,45,49,6
+Were you born a U.S. citizen?,No,64,31,5
+First-time voter?,Yes,57,38,5
+First-time voter?,No,47,47,6
+When did you decide presidential vote?,Last few days,43,43,14
+When did you decide presidential vote?,Last week,41,49,10
+When did you decide presidential vote?,In October,37,51,12
+When did you decide presidential vote?,In September,46,48,6
+When did you decide presidential vote?,Before September,52,45,3
+When did you decide presidential vote?,In the last week,42,45,13
+When did you decide presidential vote?,Before that,49,46,5
+When did you decide presidential vote?,In the last month,40,48,12
+When did you decide presidential vote?,Before that,51,45,4
+Opinion of presidential candidate you voted for,Strongly favor ,53,41,6
+Opinion of presidential candidate you voted for,Have reservations,49,48,3
+Opinion of presidential candidate you voted for,Dislike opponents,39,50,11
+Most important issue facing the country,Foreign policy,60,33,7
+Most important issue facing the country,Immigration,33,64,3
+Most important issue facing the country,Economy,52,41,7
+Most important issue facing the country,Terrorism,40,57,3
+Which candidate quality mattered most?,Cares about me,57,34,9
+Which candidate quality mattered most?,Can bring change,14,82,4
+Which candidate quality mattered most?,Right experience,90,7,3
+Which candidate quality mattered most?,Good judgment,65,25,10
+Illegal immigrants working in the U.S. should be:,Offered legal status,61,33,6
+Illegal immigrants working in the U.S. should be:,Deported to home country,14,83,3
+View of U.S. wall along the entire Mexican border,Support,10,85,5
+View of U.S. wall along the entire Mexican border,Oppose,76,16,8
+Effect of international trade,Creates U.S. jobs,59,35,6
+Effect of international trade,Takes away U.S. jobs,32,64,4
+Effect of international trade,Does not affect jobs,65,30,5
+How is the fight against ISIS going?,Very well,85,11,4
+How is the fight against ISIS going?,Somewhat well,71,24,5
+How is the fight against ISIS going?,Somewhat badly,37,55,8
+How is the fight against ISIS going?,Very badly,12,83,5
+How is the fight against ISIS going?,Well,73,22,5
+How is the fight against ISIS going?,Badly,25,68,7
+"In your vote, were Supreme Court appointments:",The most important factor,41,56,3
+"In your vote, were Supreme Court appointments:",An important factor,49,46,5
+"In your vote, were Supreme Court appointments:",A minor factor,49,40,11
+"In your vote, were Supreme Court appointments:",Not a factor at all,55,37,8
+"In your vote, were Supreme Court appointments:",Important,47,49,4
+"In your vote, were Supreme Court appointments:",Not important,52,39,9
+Does the country's criminal justice system:,Treat all fairly,23,73,4
+Does the country's criminal justice system:,Treat blacks unfairly,72,22,6
+View on Obamacare,Did not go far enough,78,18,4
+View on Obamacare,Was about right,83,10,7
+View on Obamacare,Went too far,13,82,5
+Feelings about the federal government,Enthusiastic,78,19,3
+Feelings about the federal government,Satisfied,76,19,5
+Feelings about the federal government,Dissatisfied,46,48,6
+Feelings about the federal government,Angry,18,75,7
+Feelings about the federal government,Enthusiastic/Satisfied,76,19,5
+Feelings about the federal government,Dissatisfied/Angry,36,57,7
+Opinion of government,Government should do more,74,22,4
+Opinion of government,Government doing too much,22,72,6
+Opinion of Barack Obama as president,Strongly approve,93,4,3
+Opinion of Barack Obama as president,Somewhat approve,69,20,11
+Opinion of Barack Obama as president,Somewhat disapprove,14,77,9
+Opinion of Barack Obama as president,Strongly disapprove,3,93,4
+Opinion of Barack Obama as president,Approve,84,10,6
+Opinion of Barack Obama as president,Disapprove,6,89,5
+Should the next president:,Continue Obama's policies,91,5,4
+Should the next president:,Be more conservative,13,82,5
+Should the next president:,Be more liberal,69,23,8
+Opinion of Hillary Clinton,Favorable,96,3,1
+Opinion of Hillary Clinton,Unfavorable,11,81,8
+Opinion of Donald Trump,Favorable,4,95,1
+Opinion of Donald Trump,Unfavorable,77,15,8
+Opinion of Clinton and Trump,Both favorable,0,0,0
+Opinion of Clinton and Trump,Only Clinton favorable,98,1,1
+Opinion of Clinton and Trump,Only Trump favorable,1,98,1
+Opinion of Clinton and Trump,Both unfavorable,30,47,23
+Is Hillary Clinton honest and trustworthy?,Yes,94,4,2
+Is Hillary Clinton honest and trustworthy?,No,20,72,8
+Is Donald Trump honest and trustworthy?,Yes,6,94,0
+Is Donald Trump honest and trustworthy?,No,71,20,9
+Which candidate is honest?,Both are,0,0,0
+Which candidate is honest?,Only Clinton is,97,1,2
+Which candidate is honest?,Only Trump is,2,98,0
+Which candidate is honest?,Neither is,40,43,17
+Is Clinton qualified to serve as president?,Yes,86,9,5
+Is Clinton qualified to serve as president?,No,5,88,7
+Is Trump qualified to serve as president?,Yes,4,94,2
+Is Trump qualified to serve as president?,No,75,17,8
+Who is qualified to serve as president?,Both are,22,71,7
+Who is qualified to serve as president?,Only Clinton is,94,2,4
+Who is qualified to serve as president?,Only Trump is,1,98,1
+Who is qualified to serve as president?,Neither is,15,66,19
+Does Clinton have the temperament to be president?,Yes,83,12,5
+Does Clinton have the temperament to be president?,No,5,88,7
+Does Trump have the temperament to be president?,Yes,5,94,1
+Does Trump have the temperament to be president?,No,72,19,9
+Which candidate has the right temperament?,Both do,20,77,3
+Which candidate has the right temperament?,Only Clinton does,90,5,5
+Which candidate has the right temperament?,Only Trump does,2,97,1
+Which candidate has the right temperament?,Neither does,12,67,21
+How would you feel if Clinton wins?,Excited,98,1,1
+How would you feel if Clinton wins?,Optimistic,92,5,3
+How would you feel if Clinton wins?,Concerned,19,68,13
+How would you feel if Clinton wins?,Scared,1,94,5
+How would you feel if Clinton wins?,Positive,94,3,3
+How would you feel if Clinton wins?,Negative,9,82,9
+How would you feel if Trump wins?,Excited,2,97,1
+How would you feel if Trump wins?,Optimistic,3,95,2
+How would you feel if Trump wins?,Concerned,54,33,13
+How would you feel if Trump wins?,Scared,92,2,6
+How would you feel if Trump wins?,Positive,3,95,2
+How would you feel if Trump wins?,Negative,78,13,9
+Does Clinton's use of private email bother you:,A lot,7,86,7
+Does Clinton's use of private email bother you:,Some,68,25,7
+Does Clinton's use of private email bother you:,Not much,88,7,5
+Does Clinton's use of private email bother you:,Not at all,93,5,2
+Does Clinton's use of private email bother you?,Yes,24,69,7
+Does Clinton's use of private email bother you?,No,91,6,3
+Does Donald Trump's treatment of women bother you:,A lot,83,11,6
+Does Donald Trump's treatment of women bother you:,Some,20,73,7
+Does Donald Trump's treatment of women bother you:,Not much,8,88,4
+Does Donald Trump's treatment of women bother you:,Not at all,11,86,3
+Does Donald Trump's treatment of women bother you?,Yes,65,29,6
+Does Donald Trump's treatment of women bother you?,No,10,87,3
+Who would better handle the economy?,Clinton,95,1,4
+Who would better handle the economy?,Trump,3,94,3
+Who would better handle foreign policy?,Clinton,86,7,7
+Who would better handle foreign policy?,Trump,2,96,2
+Who would be a better commander in chief?,Clinton,93,2,5
+Who would be a better commander in chief?,Trump,1,95,4
+Opinion of the Democratic Party,Favorable,88,8,4
+Opinion of the Democratic Party,Unfavorable,9,83,8
+Opinion of the Republican Party,Favorable,11,85,4
+Opinion of the Republican Party,Unfavorable,73,20,7
+Condition of national economy,Excellent,83,16,1
+Condition of national economy,Good,76,18,6
+Condition of national economy,Not good,40,53,7
+Condition of national economy,Poor,15,79,6
+Condition of national economy,Good,77,18,5
+Condition of national economy,Poor,31,62,7
+Financial situation compared to four years ago:,Better today,72,23,5
+Financial situation compared to four years ago:,Worse today,19,77,4
+Financial situation compared to four years ago:,About the same,47,45,8
+Direction of the country,Right direction,89,7,4
+Direction of the country,Wrong track,26,68,6
+Life for the next generation of Americans will be:,Better than today,59,38,3
+Life for the next generation of Americans will be:,Worse than today,31,63,6
+Life for the next generation of Americans will be:,About the same,54,38,8
+Vote for president in a two-way race,Clinton,97,1,2
+Vote for president in a two-way race,Trump,1,97,2
+Vote for president in a two-way race,Would not vote,16,19,65
+How confident are you in the vote count?,Very confident,68,27,5
+How confident are you in the vote count?,Somewhat confident,33,61,6
+How confident are you in the vote count?,Not very confident,25,68,7
+How confident are you in the vote count?,Not at all confident,28,57,15
+Are you confident in the vote count?,Confident,53,42,5
+Are you confident in the vote count?,Not confident,26,65,9
+"Are you gay, lesbian, bisexual or transgender?",Yes,77,14,9
+"Are you gay, lesbian, bisexual or transgender?",No,47,47,6
+Importance of debates to your vote,Most important factor,51,47,2
+Importance of debates to your vote,An important factor,50,45,5
+Importance of debates to your vote,A minor factor,37,58,5
+Importance of debates to your vote,Not a factor,41,49,10
+Importance of debates to your vote,Important,50,46,4
+Importance of debates to your vote,Not important,38,55,7
+Were debates a factor in your vote?,Yes,47,48,5
+Were debates a factor in your vote?,No,41,49,10
+Vote for U.S. House,Democratic candidate,90,5,5
+Vote for U.S. House,Republican candidate,8,87,5
+Area type,Urban area,60,34,6
+Area type,Suburban area,45,49,6
+Area type,Rural area,34,61,5

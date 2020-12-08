@@ -1,0 +1,277 @@
+Age,18-29,60,36,0
+Age,30-44,52,46,0
+Age,45-64,49,50,0
+Age,65 or older,47,52,0
+Age,18-24,65,31,0
+Age,25-29,54,43,0
+Age,30-39,51,46,0
+Age,40-49,54,44,0
+Age,50-64,47,52,0
+Age,65 or older,47,52,0
+Family's financial situation today:,Better than four years ago,26,72,0
+Family's financial situation today:,Worse than four years ago,77,20,0
+Family's financial situation today:,About the same,65,34,0
+Life for the next generation of Americans will be:,Better than today,55,44,0
+Life for the next generation of Americans will be:,Worse than today,52,45,0
+Life for the next generation of Americans will be:,About the same,40,58,0
+Marital status,Married,46,53,0
+Marital status,Not married,58,40,0
+Condition of the nation's economy:,Excellent,16,84,0
+Condition of the nation's economy:,Good,24,75,0
+Condition of the nation's economy:,Not so good,76,22,0
+Condition of the nation's economy:,Poor,87,10,0
+Party ID,Democrat,94,5,0
+Party ID,Republican,6,94,0
+Party ID,Independent,54,41,0
+Ideology,Liberal,89,10,0
+Ideology,Moderate,64,34,0
+Ideology,Conservative,14,85,0
+Race,White,41,58,0
+Race,Black,87,12,0
+Race,Latino,65,32,0
+Race,Asian,61,34,0
+Race,Other racial/ethnic groups,55,41,0
+Region,East,58,41,0
+Region,Midwest,47,51,0
+Region,South,46,53,0
+Region,West,57,41,0
+Religion,Protestant/Other Christian,39,60,0
+Religion,Catholic,52,47,0
+Religion,Jewish,-1,-1,0
+Religion,Other religious affiliation,69,29,0
+Religion,No religious affiliation,65,31,0
+Gender,Male,45,53,0
+Gender,Female,57,42,0
+Area type,Urban,60,38,0
+Area type,Suburban,50,48,0
+Area type,Rural,42,57,0
+Work full time?,Yes,47,51,0
+Work full time?,No,57,42,0
+U.S. House Vote,Democrat,95,4,0
+U.S. House Vote,Republican,4,95,0
+Condition of the nation's economy:,Excellent/Good,22,78,0
+Condition of the nation's economy:,Not good/Poor,80,17,0
+Abortion should be:,Legal in all cases,80,18,0
+Abortion should be:,Legal in most cases,68,30,0
+Abortion should be:,Illegal in most cases,27,72,0
+Abortion should be:,Illegal in all cases,18,81,0
+U.S. military veteran?,Yes,44,54,0
+U.S. military veteran?,No,53,45,0
+Religion among White voters,White Protestant,27,72,0
+Religion among White voters,White Catholic,44,56,0
+Religion among White voters,White Jewish,-1,-1,0
+Religion among White voters,"White, another religion",65,33,0
+Religion among White voters,"White, no religious affiliation",61,37,0
+Income,"Less than $50,000",55,44,0
+Income,"$50,000 or more",51,47,0
+Vote for president mainly:,For your candidate,46,53,0
+Vote for president mainly:,Against his opponent,68,30,0
+Income,"Less than $100,000",56,43,0
+Income,"$100,000 or more",42,54,0
+White born-again or evangelical Christian?,Yes,24,76,0
+White born-again or evangelical Christian?,No,62,36,0
+How confident that votes will be counted accurately?,Very confident,52,47,0
+How confident that votes will be counted accurately?,Somewhat confident,56,42,0
+How confident that votes will be counted accurately?,Not very confident,34,61,0
+How confident that votes will be counted accurately?,Not at all confident,31,66,0
+How confident that votes will be counted accurately?,Confident,54,45,0
+How confident that votes will be counted accurately?,Not confident,33,63,0
+Abortion should be:,Legal,74,24,0
+Abortion should be:,Illegal,23,76,0
+Gender by marital status,Married men,44,55,0
+Gender by marital status,Married women,47,51,0
+Gender by marital status,Unmarried men,52,45,0
+Gender by marital status,Unmarried women,63,36,0
+Parents,Men with children,48,49,0
+Parents,Women with children,56,43,0
+Parents,Men no children,47,51,0
+Parents,Women no children,55,44,0
+Sex by race,White men,38,61,0
+Sex by race,White women,44,55,0
+Sex by race,Black men,79,19,0
+Sex by race,Black women,90,9,0
+Sex by race,Latino men,59,36,0
+Sex by race,Latino women,69,30,0
+Sex by race,All other races,58,38,0
+Age by race,White Voters 18-29,44,53,0
+Age by race,White Voters 30-44,41,57,0
+Age by race,White Voters 45-59,38,61,0
+Age by race,White Voters 60 or older,42,57,0
+Age by race,Black Voters 18-29,89,10,0
+Age by race,Black Voters 30-44,78,19,0
+Age by race,Black Voters 45-59,89,10,0
+Age by race,Black Voters 60 or older,92,7,0
+Age by race,Latino Voters 18-29,69,28,0
+Age by race,Latino Voters 30-44,62,34,0
+Age by race,Latino Voters 45-59,68,30,0
+Age by race,Latino Voters 60 or older,58,40,0
+Age by race,All others,57,38,0
+Income,"Less than $50,000",55,44,0
+Income,"$50,000 to $99,999",57,42,0
+Income,"$100,000 or more",42,54,0
+Age,18-44,56,42,0
+Age,45 or older,48,51,0
+Education,College graduate,55,43,0
+Education,No college degree,48,50,0
+Education by race,"White voters, college degree",51,48,0
+Education by race,"White voters, no degree",32,67,0
+Education by race,"Voters of color, college degree",70,27,0
+Education by race,"Voters of color, no degree",72,26,0
+Is this the first year you voted?,Yes,64,32,0
+Is this the first year you voted?,No,49,49,0
+View of Joe Biden:,Favorable,94,4,0
+View of Joe Biden:,Unfavorable,4,95,0
+Importance of recent rise in coronavirus cases to presidential vote,The most important factor,61,38,0
+Importance of recent rise in coronavirus cases to presidential vote,An important factor,47,51,0
+Importance of recent rise in coronavirus cases to presidential vote,A minor factor,13,86,0
+Importance of recent rise in coronavirus cases to presidential vote,Not a factor at all,7,91,0
+Have any children under 18?,Yes,52,46,0
+Have any children under 18?,No,51,48,0
+Importance of recent rise in coronavirus cases to presidential vote,Important,52,46,0
+Importance of recent rise in coronavirus cases to presidential vote,Not important,10,88,0
+Importance of recent rise in coronavirus cases to presidential vote,A factor,43,56,0
+Importance of recent rise in coronavirus cases to presidential vote,Not a factor,7,91,0
+Union household?,Yes,56,40,0
+Union household?,No,50,49,0
+Is climate change a serious problem?,Yes,69,29,0
+Is climate change a serious problem?,No,15,84,0
+Race,White voters,41,58,0
+Race,Voters of color,71,26,0
+View of federal government,Enthusiastic,18,81,0
+View of federal government,Satisfied,29,70,0
+View of federal government,Dissatisfied,67,31,0
+View of federal government,Angry,74,24,0
+View of federal government,Enthusiastic/Satisfied,25,74,0
+View of federal government,Dissatisfied/Angry,70,28,0
+Does Trump have the temperament to serve as president?,Yes,4,95,0
+Does Trump have the temperament to serve as president?,No,89,9,0
+"Gay, lesbian, bisexual or transgender?",Yes,64,27,0
+"Gay, lesbian, bisexual or transgender?",No,51,48,0
+Decided on presidential vote:,In the last few days,49,47,0
+Decided on presidential vote:,In the last week,31,64,0
+Decided on presidential vote:,In October,48,49,0
+Decided on presidential vote:,In September,52,45,0
+Decided on presidential vote:,Before that,51,48,0
+View of Donald Trump:,Favorable,4,95,0
+View of Donald Trump:,Unfavorable,93,5,0
+"In vote for president, Supreme Court appointments were:",The most important factor,47,51,0
+"In vote for president, Supreme Court appointments were:",An important factor,54,45,0
+"In vote for president, Supreme Court appointments were:",A minor factor,51,48,0
+"In vote for president, Supreme Court appointments were:",Not a factor at all,49,49,0
+View of Mike Pence:,Favorable,8,91,0
+View of Mike Pence:,Unfavorable,91,8,0
+"In vote for president, Supreme Court appointments were:",An important factor,52,46,0
+"In vote for president, Supreme Court appointments were:",Not an important factor,50,48,0
+Decided on presidential vote:,In the last month,46,51,0
+Decided on presidential vote:,Before that,51,47,0
+Decided on presidential vote:,In the last week,42,54,0
+Decided on presidential vote:,Before that,51,47,0
+Education by Gender Among White Voters,White college graduate women,54,45,0
+Education by Gender Among White Voters,White women no degree,36,63,0
+Education by Gender Among White Voters,White college graduate men,48,51,0
+Education by Gender Among White Voters,White men no degree,28,70,0
+Education by Gender Among White Voters,Voters of color,71,26,0
+Opinion of Trump as president,Strongly approve,4,96,0
+Opinion of Trump as president,Somewhat approve,20,75,0
+Opinion of Trump as president,Somewhat disapprove,89,7,0
+Opinion of Trump as president,Strongly disapprove,97,1,0
+Opinion of Trump as president,Approve,8,91,0
+Opinion of Trump as president,Disapprove,96,3,0
+Education,Never attended college,46,54,0
+Education,Some college,51,47,0
+Education,Associate's degree,47,50,0
+Education,Bachelor's degree,51,47,0
+Education,Advanced degree,62,37,0
+2016 presidential vote?,Clinton,95,4,0
+2016 presidential vote?,Trump,7,92,0
+2016 presidential vote?,Someone else,60,25,0
+2016 presidential vote?,Did not vote,58,39,0
+Income,"Less than $30,000",54,46,0
+Income,"$30,000-$49,999",56,43,0
+Income,"$50,000-$99,999",57,42,0
+Income,"$100,000-$199,999",41,58,0
+Income,"$200,000 or more",44,44,0
+Most important issue to your vote?,Racial inequality,92,7,0
+Most important issue to your vote?,Coronavirus,81,15,0
+Most important issue to your vote?,The economy,17,83,0
+Most important issue to your vote?,Crime and safety,27,71,0
+Most important issue to your vote?,Health care policy,62,37,0
+Which candidate quality mattered most?,Can unite the country,75,24,0
+Which candidate quality mattered most?,Is a strong leader,28,72,0
+Which candidate quality mattered most?,Cares about people like me,49,50,0
+Which candidate quality mattered most?,Has good judgment,68,26,0
+U.S. efforts to contain coronavirus are going:,Very well,13,86,0
+U.S. efforts to contain coronavirus are going:,Somewhat well,21,78,0
+U.S. efforts to contain coronavirus are going:,Somewhat badly,74,24,0
+U.S. efforts to contain coronavirus are going:,Very badly,94,4,0
+Voting in your state is:,Very easy,48,50,0
+Voting in your state is:,Somewhat easy,60,39,0
+Voting in your state is:,Somewhat difficult,52,46,0
+Voting in your state is:,Very difficult,-1,-1,0
+Better handle the economy?,Biden,96,2,0
+Better handle the economy?,Trump,6,92,0
+Which is more important to do now?,Contain coronavirus,79,19,0
+Which is more important to do now?,Rebuild the economy,20,78,0
+Racism in the U.S. is:,The most important problem,87,11,0
+Racism in the U.S. is:,An important problem,61,37,0
+Racism in the U.S. is:,A minor problem,18,81,0
+Racism in the U.S. is:,Not a problem at all,8,91,0
+"On Obamacare, should the Supreme Court:",Keep it as is,80,18,0
+"On Obamacare, should the Supreme Court:",Overturn it,21,78,0
+Has the coronavirus pandemic caused you:,Severe financial hardship,69,29,0
+Has the coronavirus pandemic caused you:,Moderate financial hardship,59,39,0
+Has the coronavirus pandemic caused you:,No financial hardship at all,38,60,0
+Feelings if Biden elected president:,Excited,97,3,0
+Feelings if Biden elected president:,Optimistic,91,7,0
+Feelings if Biden elected president:,Concerned,5,92,0
+Feelings if Biden elected president:,Scared,6,93,0
+Feelings if Trump re-elected president:,Excited,1,99,0
+Feelings if Trump re-elected president:,Optimistic,12,86,0
+Feelings if Trump re-elected president:,Concerned,78,20,0
+Feelings if Trump re-elected president:,Scared,96,2,0
+Does Biden have the temperament to serve as president?,Yes,92,7,0
+Does Biden have the temperament to serve as president?,No,3,94,0
+View of Black Lives Matter:,Favorable,78,20,0
+View of Black Lives Matter:,Unfavorable,14,86,0
+Favorable opinion of:,Biden and Trump,43,49,0
+Favorable opinion of:,Only Biden,97,2,0
+Favorable opinion of:,Only Trump,1,98,0
+Favorable opinion of:,Neither of them,35,52,0
+Who has the temperament to serve as president?,Biden and Trump,36,63,0
+Who has the temperament to serve as president?,Only Biden,97,2,0
+Who has the temperament to serve as president?,Only Trump,1,98,0
+Who has the temperament to serve as president?,Neither of them,20,66,0
+More important to presidential vote?,Candidate's positions on issues,47,53,0
+More important to presidential vote?,Candidate's personal qualities,64,31,0
+Better handle the coronavirus pandemic?,Biden,92,6,0
+Better handle the coronavirus pandemic?,Trump,4,95,0
+Is wearing a face mask in public more of a:,Personal choice,24,73,0
+Is wearing a face mask in public more of a:,Public health responsibility,64,35,0
+Who has the physical/mental health to serve effectively as president?,Only Biden does,98,2,0
+Who has the physical/mental health to serve effectively as president?,Only Trump does,1,98,0
+Who has the physical/mental health to serve effectively as president?,Both do,54,46,0
+Who has the physical/mental health to serve effectively as president?,Neither does,62,27,0
+Does the country's criminal justice system:,Treat all people fairly,14,84,0
+Does the country's criminal justice system:,Treat Black people unfairly,82,17,0
+View of Kamala Harris:,Favorable,91,8,0
+View of Kamala Harris:,Unfavorable,9,89,0
+Feelings if Biden is elected president:,Excited/Optimistic,94,5,0
+Feelings if Biden is elected president:,Concerned/Scared,5,93,0
+Feelings if Trump is elected president:,Excited/Optimistic,6,93,0
+Feelings if Trump is elected president:,Concerned/Scared,90,8,0
+Racism in the U.S. is:,An important problem,68,30,0
+Racism in the U.S. is:,Not an important problem,14,84,0
+Has the coronavirus pandemic caused you:,Financial hardship,62,36,0
+Has the coronavirus pandemic caused you:,No financial hardship,38,60,0
+U.S. efforts to contain the coronavirus are going:,Well,18,81,0
+U.S. efforts to contain the coronavirus are going:,Badly,87,11,0
+Voting in your state is:,Easy,51,47,0
+Voting in your state is:,Difficult,52,45,0
+Favorable opinion of:,Harris and Pence,46,50,0
+Favorable opinion of:,Only Harris,97,2,0
+Favorable opinion of:,Only Pence,2,97,0
+Favorable opinion of:,Neither of them,53,40,0
+Does Biden have the physical/mental health to serve effectively as president?,Yes,90,9,0
+Does Biden have the physical/mental health to serve effectively as president?,No,11,86,0
+Does Trump have the physical/mental health to serve effectively as president?,Yes,10,89,0
+Does Trump have the physical/mental health to serve effectively as president?,No,92,6,0

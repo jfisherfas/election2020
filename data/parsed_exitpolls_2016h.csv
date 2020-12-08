@@ -1,0 +1,192 @@
+Gender,Male,43,55,2
+Gender,Female,54,44,2
+Age,18-29,56,42,2
+Age,30-44,52,46,2
+Age,45-64,44,54,2
+Age,65 and older,45,53,2
+Age,18-44,54,44,2
+Age,45 and older,44,54,2
+Age,18-24,57,41,2
+Age,25-29,55,43,2
+Age,30-39,53,44,3
+Age,40-49,46,53,1
+Age,50-64,44,54,2
+Age,65 and older,45,53,2
+Race,White,38,60,2
+Race,Black,88,10,2
+Race,Latino,67,32,1
+Race,Asian,65,34,1
+Race,Other race,56,41,3
+Race,White,38,60,2
+Race,Non-white,74,24,2
+Race and gender,White men,33,65,2
+Race and gender,White women,43,55,2
+Race and gender,Black men,81,18,1
+Race and gender,Black women,94,5,1
+Race and gender,Latino men,63,35,2
+Race and gender,Latino women,69,30,1
+Race and gender,Others,61,37,2
+Age by race,Whites 18-29,44,54,2
+Age by race,Latinos 30-44,67,31,2
+Age by race,Latinos 45-64,62,37,1
+Age by race,Latinos 65 and older,78,21,1
+Age by race,All others,61,37,2
+Age by race,Whites 30-44,39,58,3
+Age by race,Whites 45-64,34,64,2
+Age by race,Whites 65 and older,39,59,2
+Age by race,Blacks 18-29,83,15,2
+Age by race,Blacks 30-44,91,7,2
+Age by race,Blacks 45-64,89,10,1
+Age by race,Blacks 65 and older,89,9,2
+Age by race,Latinos 18-29,68,31,1
+Education,High school or less,46,52,2
+Education,Some college,46,52,2
+Education,College graduate,48,50,2
+Education,Postgraduate,56,43,1
+Are you a college graduate?,Yes,51,47,2
+Are you a college graduate?,No,46,52,2
+Education and race,White college graduates,44,54,2
+Education and race,Whites no degree,31,66,3
+Education and race,Non-whites college grads,71,27,2
+Education and race,Non-whites no degree,77,22,1
+Education among whites by sex,White college-grad women,49,49,2
+Education among whites by sex,White non-college women,35,63,2
+Education among whites by sex,White college-grad men,38,60,2
+Education among whites by sex,White non-college men,27,70,3
+Education among whites by sex,Non-whites,74,24,2
+Income,"Under $30,000",56,41,3
+Income,"$30K-$49,999",55,44,1
+Income,"$50K-$99,999",47,51,2
+Income,"$100K-$199,999",46,51,3
+Income,"$200K-$249,999",47,50,3
+Income,"$250,000 or more",41,57,2
+Income,Under $50K,56,42,2
+Income,$50K or more,46,52,2
+Income,Under $100K,51,47,2
+Income,$100K or more,45,52,3
+Income,Under $50K,56,42,2
+Income,$50K-$100K,47,51,2
+Income,$100K or more,45,52,3
+Party ID,Democrats,92,7,1
+Party ID,Republicans,4,94,2
+Party ID,Independents,45,51,4
+Party by gender,Democratic men,91,8,1
+Party by gender,Democratic women,93,7,0
+Party by gender,Republican men,4,94,2
+Party by gender,Republican women,4,95,1
+Party by gender,Independent men,42,54,4
+Party by gender,Independent women,48,47,5
+Ideology,Liberal,87,11,2
+Ideology,Moderate,52,46,2
+Ideology,Conservative,15,83,2
+Marital status,Married,42,55,3
+Marital status,Unmarried,57,42,1
+Marital status by gender,Married men,37,62,1
+Marital status by gender,Married women,48,50,2
+Marital status by gender,Unmarried men,49,49,2
+Marital status by gender,Unmarried women,63,36,1
+White born-again or evangelical Christian?,Yes,15,84,1
+White born-again or evangelical Christian?,No,60,38,2
+Religion,Protestant,35,63,2
+Religion,Catholic,46,53,1
+Religion,Mormon,25,74,1
+Religion,Other Christian,43,56,1
+Religion,Jewish,72,26,2
+Religion,Muslim,0,0,0
+Religion,Other religion,62,34,4
+Religion,No religion,71,26,3
+Religion,Protestant,38,60,2
+Religion,Catholic,46,53,1
+Religion,Jewish,72,26,2
+Religion,Another religion,65,32,3
+Religion,No religion,71,26,3
+How often do you attend religious services?,Weekly or more,39,59,2
+How often do you attend religious services?,Monthly,45,54,1
+How often do you attend religious services?,Few times a year,47,51,2
+How often do you attend religious services?,Never,66,31,3
+How often do you attend religious services?,Monthly or more,41,57,2
+How often do you attend religious services?,Less often than that,55,42,3
+Union household?,Yes,53,44,3
+Union household?,No,48,51,1
+Served in the U.S. military,Veterans,36,63,1
+Served in the U.S. military,Non-veterans,51,47,2
+Were you born a U.S. citizen?,Yes,47,51,2
+Were you born a U.S. citizen?,No,64,34,2
+First-time voter?,Yes,59,40,1
+First-time voter?,No,48,49,3
+Most important issue facing the country,Foreign policy,61,36,3
+Most important issue facing the country,Immigration,34,64,2
+Most important issue facing the country,Economy,53,45,2
+Most important issue facing the country,Terrorism,39,59,2
+Illegal immigrants working in the U.S. should be:,Offered legal status,61,37,2
+Illegal immigrants working in the U.S. should be:,Deported to home country,16,83,1
+View of U.S. wall along the entire Mexican border,Support,14,84,2
+View of U.S. wall along the entire Mexican border,Oppose,76,22,2
+Effect of international trade,Creates U.S. jobs,58,41,1
+Effect of international trade,Takes away U.S. jobs,33,65,2
+Effect of international trade,Does not affect jobs,63,34,3
+How is the fight against ISIS going?,Very well,84,13,3
+How is the fight against ISIS going?,Somewhat well,71,27,2
+How is the fight against ISIS going?,Somewhat badly,41,58,1
+How is the fight against ISIS going?,Very badly,14,85,1
+How is the fight against ISIS going?,Well,73,25,2
+How is the fight against ISIS going?,Badly,28,71,1
+Does the country's criminal justice system:,Treat all fairly,25,74,1
+Does the country's criminal justice system:,Treat blacks unfairly,71,27,2
+Feelings about the federal government,Enthusiastic,76,24,0
+Feelings about the federal government,Satisfied,76,23,1
+Feelings about the federal government,Dissatisfied,46,52,2
+Feelings about the federal government,Angry,21,75,4
+Feelings about the federal government,Enthusiastic/Satisfied,76,23,1
+Feelings about the federal government,Dissatisfied/Angry,38,60,2
+Opinion of government,Government should do more,76,23,1
+Opinion of government,Government doing too much,21,77,2
+Opinion of Barack Obama as president,Strongly approve,92,7,1
+Opinion of Barack Obama as president,Somewhat approve,67,31,2
+Opinion of Barack Obama as president,Somewhat disapprove,17,82,1
+Opinion of Barack Obama as president,Strongly disapprove,5,93,2
+Opinion of Barack Obama as president,Approve,82,16,2
+Opinion of Barack Obama as president,Disapprove,8,90,2
+Should the next president:,Continue Obama's policies,89,9,2
+Should the next president:,Be more conservative,14,84,2
+Should the next president:,Be more liberal,71,26,3
+Opinion of Hillary Clinton,Favorable,91,8,1
+Opinion of Hillary Clinton,Unfavorable,14,83,3
+Opinion of Donald Trump,Favorable,7,91,2
+Opinion of Donald Trump,Unfavorable,74,24,2
+Opinion of Clinton and Trump,Both favorable,0,0,0
+Opinion of Clinton and Trump,Only Clinton favorable,93,6,1
+Opinion of Clinton and Trump,Only Trump favorable,5,94,1
+Opinion of Clinton and Trump,Both unfavorable,33,63,4
+Opinion of the Democratic Party,Favorable,89,10,1
+Opinion of the Democratic Party,Unfavorable,11,87,2
+Opinion of the Republican Party,Favorable,13,86,1
+Opinion of the Republican Party,Unfavorable,75,23,2
+Condition of national economy,Excellent,85,15,0
+Condition of national economy,Good,76,23,1
+Condition of national economy,Not good,41,56,3
+Condition of national economy,Poor,19,78,3
+Condition of national economy,Good,76,22,2
+Condition of national economy,Poor,33,64,3
+Financial situation compared to four years ago:,Better today,71,27,2
+Financial situation compared to four years ago:,Worse today,21,76,3
+Financial situation compared to four years ago:,About the same,49,50,1
+Direction of the country,Right direction,87,12,1
+Direction of the country,Wrong track,26,71,3
+Life for the next generation of Americans will be:,Better than today,58,41,1
+Life for the next generation of Americans will be:,Worse than today,32,67,1
+Life for the next generation of Americans will be:,About the same,55,43,2
+Vote for president in a two-way race,Clinton,91,8,1
+Vote for president in a two-way race,Trump,5,93,2
+Vote for president in a two-way race,Would not vote,41,49,10
+How confident are you in the vote count?,Very confident,65,33,2
+How confident are you in the vote count?,Somewhat confident,33,65,2
+How confident are you in the vote count?,Not very confident,29,68,3
+How confident are you in the vote count?,Not at all confident,38,56,6
+Are you confident in the vote count?,Confident,51,47,2
+Are you confident in the vote count?,Not confident,32,65,3
+"Are you gay, lesbian, bisexual or transgender?",Yes,78,18,4
+"Are you gay, lesbian, bisexual or transgender?",No,47,51,2
+Area type,Urban area,61,38,1
+Area type,Suburban area,45,53,2
+Area type,Rural area,35,63,2
