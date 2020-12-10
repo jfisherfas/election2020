@@ -1,0 +1,13 @@
+Gender,Male,42,51,0
+Gender,Female,56,36,0
+Age,18-34,53,38,0
+Age,35-49,51,42,0
+Age,50-64,41,52,0
+Age,65 and Older,52,40,0
+Income,Less Than $50K,57,38,0
+Income,$50-100K,42,49,0
+Income,$100K or More,51,39,0
+Race,White,42,52,0
+Race,Non-White,62,27,0
+Education,HS or less,44,47,0
+Education,College Graduate,60,34,0
